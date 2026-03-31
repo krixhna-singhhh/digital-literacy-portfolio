@@ -6,13 +6,13 @@ Name: Krishnapal rajput
 Branch:AI 
 Year: 2030
 
----
+
 
 ## Project Overview
 
 This project focuses on understanding **digital literacy**, online safety, cybercrime awareness, and the effective use of professional platforms. It includes practical tasks such as creating online profiles, designing a quiz, writing emails, and learning safe internet practices.
 
----
+
 
 ## Platforms Used
 
@@ -35,9 +35,9 @@ This project focuses on understanding **digital literacy**, online safety, cyber
 
 ##  Google Form Link
 
- 
+https://docs.google.com/forms/d/1_lU2O07K24h7eMS1lJM5lMR9mYau0rfgrNg5w2lIW60/edit
 
----
+
 
 ##  Folder Structure
 
